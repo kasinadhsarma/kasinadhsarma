@@ -10,12 +10,18 @@
 <a href="https://www.linkedin.com/in/swayampakula-v-s-s-pavanakasinadhasarma-90634920b/">
   <img align="middle" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
+
+
 <a href="https://twitter.com/Kasinadha353l">
   <img align="middle" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
+
+
 <a href="swayampakulavsspavanakasinadha@gmail.com">
   <img align="middle" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
+
+
 <a href="https://www.instagram.com/skasinadh/">
   <img align="middle" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
