@@ -17,7 +17,7 @@
 </a>
 
 
-<a href="swayampakulavsspavanakasinadha@gmail.com">
+<a href="https://swayampakulavsspavanakasinadha@gmail.com">
   <img align="middle" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
