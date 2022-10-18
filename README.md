@@ -36,4 +36,3 @@
 
 <a href="https://www.buymeacoffee.com/kasinadhsarma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" align="right" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cacophonybusted5.png" display="block" margin-left="center" margin-right="center" alt="TryHackMe">
