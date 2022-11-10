@@ -7,7 +7,7 @@
 [![@kasinadhsarma's Holopin board](https://holopin.io/api/user/board?user=kasinadhsarma)](https://holopin.io/@kasinadhsarma)
 
 <hr>
-<a href ="https://tryhackme.com/p/cacophonybusted5" target ="_blank"><img src ="https://shurikenskribbles.files.wordpress.com/2021/06/tryhackme.png?w=1088" alignalign="right" alt="tryhack me" style="height: 217px !important;width: 1088px !important;" ></a>
+<a href ="https://tryhackme.com/p/cacophonybusted5" target ="_blank"><img src ="https://shurikenskribbles.files.wordpress.com/2021/06/tryhackme.png?w=1088" alignalign="right" alt="tryhack me" ></a>
 </hr>
 
 <hr>
