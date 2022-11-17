@@ -15,7 +15,7 @@
 <a href='https://twitter.com/VKasinadha'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href='https://www.instagram.com/skasinadh/'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href='https://discordhub.com/user/search?csrf_token=IjY2NWM5N2UxMjg4YThkOWI2ZDlkMzUyNzhiNjMyMjY1NWQzZGYyZDUi.Y2nTSQ.0wIUfmVYHo9b5Qk_78Etuh4tsao&user_search_bar=kasi353l%235498'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png"/></a>
-<p>every student and freinds don't worry we are comming soon we give free education back</p>
+<p>every student and freinds don't worry we are coming soon we give free education back</p>
 
 </hr>
 
