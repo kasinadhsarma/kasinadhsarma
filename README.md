@@ -1,6 +1,9 @@
 ### Hi there 👋
 <hr>
 </hr>
+
+
+### Achivements
                                            
                                                       Holopin&&Hacktoberfest                                           
 
@@ -11,10 +14,12 @@
 </hr>
 
 <hr>
-<a href ="https://play.picoctf.org/users/kasinadhsarma" target ="_blank"><img src ="https://ctftime.org/media/events/picoCTF-logo_1.png" alignalign="right" alt="tryhack me" ></a>
+<a href ="https://play.picoctf.org/users/kasinadhsarma" target ="_blank"><img src ="https://ctftime.org/media/events/picoCTF-logo_1.png" alignalign="right" alt="picoctf" style="height: 90px !important;"></a>
 </hr>
 
 <hr>
+
+### social media
 <a href='https://www.linkedin.com/in/swayampakula-v-s-s-pavanakasinadhasarma-90634920b/' target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href='https://twitter.com/VKasinadha'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href='https://www.instagram.com/skasinadh/'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
