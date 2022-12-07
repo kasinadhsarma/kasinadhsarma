@@ -10,10 +10,7 @@
 [![@kasinadhsarma's Holopin board](https://holopin.io/api/user/board?user=kasinadhsarma)](https://holopin.io/@kasinadhsarma)
 
 <hr>
-<a href ="https://tryhackme.com/p/cacophonybusted5" target ="_blank"><img src ="https://shurikenskribbles.files.wordpress.com/2021/06/tryhackme.png?w=1088" alignalign="right" alt="tryhack me" ></a>
-</hr>
-
-<hr>
+<a href ="https://tryhackme.com/p/cacophonybusted5" target ="_blank"><img src ="https://user-images.githubusercontent.com/81065703/206114940-9aabcbec-024c-40da-8af3-115293b73cb3.png" alignalign="right" alt="tryhack me" style= "height:90px !important;"></a>
 <a href ="https://play.picoctf.org/users/kasinadhsarma" target ="_blank"><img src ="https://ctftime.org/media/events/picoCTF-logo_1.png" alignalign="right" alt="picoctf" style="height: 90px !important;"></a>
 </hr>
 
