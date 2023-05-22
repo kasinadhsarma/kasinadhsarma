@@ -4,9 +4,9 @@
 
 
 ### Achivements
-                                           
-                                                      Holopin&&Hacktoberfest                                           
-
+                                       
+ | Holopin&&Hacktoberfest|                                           
+ | - |
 [![@kasinadhsarma's Holopin board](https://holopin.io/api/user/board?user=kasinadhsarma)](https://holopin.io/@kasinadhsarma)
 
 <hr>
