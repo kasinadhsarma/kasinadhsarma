@@ -11,7 +11,7 @@
 
 <hr>
 <a href ="https://tryhackme.com/p/cacophonybusted5" target ="_blank"><img src ="https://github.com/kasinadhsarma/kasinadhsarma/assets/81065703/88b5ed0d-a8f8-4159-997a-400094ae2917" alignalign="right" alt="tryhack me" style= "height:90px !important;"></a>
-<a href ="https://play.picoctf.org/users/kasinadhsarma" target ="_blank"><img src ="https://ctftime.org/media/events/picoCTF-logo_1.png" alignalign="right" alt="picoctf" style="height: 90px !important;"></a>
+<a href ="https://play.picoctf.org/users/kasinadhsarma" target ="_blank"><img src ="https://github.com/kasinadhsarma/kasinadhsarma/assets/81065703/7710c657-10e4-4ac9-ba87-54e7391797f7" alignalign="right" alt="picoctf" style="height: 90px !important;"></a>
 </hr>
 
 <hr>
