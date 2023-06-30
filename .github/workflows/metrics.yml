@@ -17,9 +17,8 @@ jobs:
 
           # Options
           user: kasinadhsarma
-          template: repository
+          template: classic
           base: header, activity, community, repositories, metadata
-          repo: metrics
           config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: detailed
