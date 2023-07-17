@@ -20,6 +20,7 @@
 
 [![kasinadhsarma's GitHub | Stats](https://stats.quine.sh/kasinadhsarma/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kasinadhsarma)
 
+[![kasinadhsarma's GitHub | Topics Over Time](https://stats.quine.sh/kasinadhsarma/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kasinadhsarma)
 </hr>
 <hr>
 
