@@ -18,6 +18,11 @@
 
 <hr>
 
+[![kasinadhsarma's GitHub | Stats](https://stats.quine.sh/kasinadhsarma/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kasinadhsarma)
+
+</hr>
+<hr>
+
 ### social media
 <a href='https://www.linkedin.com/in/swayampakulavsspavanakasinadhasarma/' target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 <a href='https://twitter.com/VKasinadha'><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/></a>
@@ -49,3 +54,8 @@
 
 
 </hr>
+
+<hr>
+
+</hr>
+
