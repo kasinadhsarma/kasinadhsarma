@@ -7,7 +7,7 @@
                                        
  | Holopin&&Hacktoberfest|                                           
  | - |
-[![An image of @kasinadhsarma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kasinadhsarma)](https://holopin.io/@kasinadhsarma)
+[![holopin](https://holopin.me/kasinadhsarma)](https://holopin.io/@kasinadhsarma)
 
 
 <hr>
