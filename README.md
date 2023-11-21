@@ -7,7 +7,8 @@
                                        
  | Holopin&&Hacktoberfest|                                           
  | - |
-[![@kasinadhsarma's Holopin board](https://holopin.io/api/user/board?user=kasinadhsarma)](https://holopin.io/@kasinadhsarma)
+[![An image of @kasinadhsarma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kasinadhsarma)](https://holopin.io/@kasinadhsarma)
+
 
 <hr>
 <a href ="https://tryhackme.com/p/cacophonybusted5" target ="_blank"><img src ="img/tryhackme.png" alignalign="right" alt="tryhack me" style= "height:90px !important;"></a>
