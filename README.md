@@ -11,7 +11,7 @@
 
 
 <hr>
-<a href ="https://tryhackme.com/p/cacophonybusted5" target ="_blank"><img src ="img/tryhackme.png" alignalign="right" alt="tryhack me" style= "height:90px !important;"></a>
+<a href ="https://tryhackme.com/p/kasinadhsarma" target ="_blank"><img src ="img/tryhackme.png" alignalign="right" alt="tryhack me" style= "height:90px !important;"></a>
 <a href ="https://play.picoctf.org/users/kasinadhsarma" target ="_blank"><img src ="img/picoctf.png" alignalign="right" alt="picoctf" style="height: 90px !important;"></a>
 
 
