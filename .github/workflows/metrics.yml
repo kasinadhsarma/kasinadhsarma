@@ -25,7 +25,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_isocalendar: yes
           plugin_skyline: yes
-          plugin_skyline_year: 2023
+          plugin_skyline_year: 2024
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
           plugin_skyline_settings: |
