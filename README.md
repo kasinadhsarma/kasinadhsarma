@@ -45,6 +45,8 @@
 
 ---
 
+![My GitHub Metrics](github-metrics.svg)
+
 ---
 
 <a href="https://github.com/kasinadhsarma/spotify_dashbord" target="_blank">
