@@ -52,9 +52,4 @@ jobs:
           plugin_anilist_user: kasinadhsarma
           plugin_introduction: yes
           plugin_introduction_title: yes
-          plugin_rss_source: https://kasinadhsarma.in
-          plugin_rss_limit: 4
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-
           
