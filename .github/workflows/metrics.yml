@@ -88,13 +88,16 @@ jobs:
           plugin_screenshot_viewport_height: 1280
 
           plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_settings_url: "https://skyline.github.com/kasinadhsarma/2024"
-          plugin_skyline_settings_ready: "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')"
-          plugin_skyline_settings_wait: 1
-          plugin_skyline_settings_hide: "button, footer, a"
-          plugin_skyline_year: current-year
+          plugin_skyline_year: 2024
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
 
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
