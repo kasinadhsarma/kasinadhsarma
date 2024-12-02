@@ -95,20 +95,16 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: https://kasinadhsarma.in
-          plugin_screenshot_viewport: {
-                "width": 1280,
-                "height": 1280
-          }
+          plugin_screenshot_viewport_width: 1280
+          plugin_screenshot_viewport_height: 1280
 
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
-          plugin_skyline_settings: {
-  "url": "https://skyline.github.com/${login}/${year}",
-  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-  "wait": 1,
-  "hide": "button, footer, a"
-}
+          plugin_skyline_settings_url: "https://skyline.github.com/${login}/${year}"
+          plugin_skyline_settings_ready: "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')"
+          plugin_skyline_settings_wait: 1
+          plugin_skyline_settings_hide: "button, footer, a"
           plugin_skyline_year: current-year
 
           plugin_sponsors: yes
