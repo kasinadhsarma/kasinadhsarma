@@ -52,6 +52,11 @@
 ![image](https://github.com/user-attachments/assets/3d69accc-ba0e-4d9a-adba-9361eb4b19f8)
 
 ---
+
+[![kasinadhsarma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kasinadhsarma&layout=compact)](https://github.com/kasinadhsarma/github-readme-stats)
+
+
+---
 ### Spotify Dashboard  
 
 <a href="https://github.com/kasinadhsarma/spotify_dashbord" target="_blank">
