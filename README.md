@@ -65,6 +65,8 @@
   </p>
 </a>  
 
+[![wakatime](https://wakatime.com/badge/user/9849b760-c9b2-46e7-b469-271f5faa6c63.svg)](https://wakatime.com/@9849b760-c9b2-46e7-b469-271f5faa6c63)
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkasinadhsarma&countColor=%23ff8a65)  
 
 <a href="https://www.buymeacoffee.com/kasinadhsarma" target="_blank">
