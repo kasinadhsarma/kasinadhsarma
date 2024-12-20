@@ -10,17 +10,6 @@
 
 ---
 
-### Platforms
-
-<a href="https://tryhackme.com/p/kasinadhsarma" target="_blank">
-  <img src="img/tryhackme.png" align="left" alt="TryHackMe" style="height:90px;">
-</a>
-<a href="https://play.picoctf.org/users/kasinadhsarma" target="_blank">
-  <img src="img/picoctf.png" align="left" alt="PicoCTF" style="height:90px;">
-</a>
-
----
-
 ### Code Activity
 
 ![CodeActivity_Languages_I_WORKED_ON](https://wakatime.com/share/@kasinadhsarma/44477e3c-1801-4673-b4ea-0c5fbbc4ea82.svg)
