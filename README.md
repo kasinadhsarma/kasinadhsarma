@@ -17,31 +17,9 @@
   <img src="img/picoctf.png" align="left" alt="PicoCTF" style="height:90px;">
 </a>  
 
-![kasinadhsarma's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kasinadhsarma)  
-
 ---
 
-[![GitHub Stats](https://stats.quine.sh/kasinadhsarma/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kasinadhsarma)  
-[![Dependencies](https://stats.quine.sh/kasinadhsarma/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kasinadhsarma)  
-[![Languages Over Time](https://stats.quine.sh/kasinadhsarma/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kasinadhsarma)  
-[![Topics Over Time](https://stats.quine.sh/kasinadhsarma/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kasinadhsarma)  
-
----
-
-### Social Media  
-
-<a href='https://www.linkedin.com/in/kasinadhasarma/' target="_blank">
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" alt="LinkedIn"/>
-</a>  
-<a href='https://x.com/Kasinadha' target="_blank">
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" alt="Twitter"/>
-</a>  
-<a href='https://www.instagram.com/skasinadh/' target="_blank">
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" alt="Instagram"/>
-</a>  
-<a href='https://discord.com/channels/kasi353l#5498' target="_blank">
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-discord-social-media-justicon-lineal-color-justicon.png" alt="Discord"/>
-</a>  
+![CodeActivity_Lanaguages_I_WORKED_ON](https://wakatime.com/share/@kasinadhsarma/44477e3c-1801-4673-b4ea-0c5fbbc4ea82.svg)
 
 ---
 
