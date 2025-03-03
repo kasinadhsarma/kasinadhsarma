@@ -22,12 +22,6 @@
 
 ---
 
-### Wakatime Stats
-
-[![kasinadhsarma's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kasinadhsarma&layout=compact)](https://github.com/kasinadhsarma/github-readme-stats)
-
----
-
 ### Spotify Dashboard
 
 <a href="https://github.com/kasinadhsarma/spotify_dashbord" target="_blank">
